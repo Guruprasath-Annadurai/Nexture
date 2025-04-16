@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "title": "Cloud Engineer",
+    "company": "AWS Corp",
+    "skills": ["aws", "lambda", "python", "devops", "docker"],
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$120k - $180k",
+    "description": "Join our cloud engineering team to build and maintain scalable AWS infrastructure.",
+    "applyUrl": "https://aws.jobs/apply/1",
+    "tags": ["Cloud", "DevOps", "Remote"]
+  },
+  {
+    "id": "2",
+    "title": "AI Software Engineer",
+    "company": "DeepAI",
+    "skills": ["tensorflow", "scikit-learn", "python", "flask", "gcp"],
+    "location": "London",
+    "type": "Full-time",
+    "salary": "$100k - $150k",
+    "description": "Work on cutting-edge AI solutions using TensorFlow and scikit-learn.",
+    "applyUrl": "https://deepai.jobs/apply/2",
+    "tags": ["AI", "Machine Learning", "Python"]
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Developer",
+    "company": "CodeWave",
+    "skills": ["react", "node.js", "express", "mongodb", "typescript"],
+    "location": "Hybrid - Manchester",
+    "type": "Full-time",
+    "salary": "$90k - $140k",
+    "description": "Build modern web applications using React, Node.js, and MongoDB.",
+    "applyUrl": "https://codewave.jobs/apply/3",
+    "tags": ["Frontend", "Backend", "Full Stack"]
+  }
+  // ... rest of the jobs with tags
+]
