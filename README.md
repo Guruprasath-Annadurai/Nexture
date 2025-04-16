@@ -46,4 +46,4 @@ Security: JWT Auth + TOTP 2FA (speakeasy) + Nodemailer + Twilio
 
 File Upload: UploadThing + Firebase Storage
 
-Dev Tools: RORK.app, Railway/Render (optional), VS Code
+Dev Tools: Railway/Render, VS Code
